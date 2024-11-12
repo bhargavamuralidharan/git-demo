@@ -1,1 +1,1 @@
-Hello class test for rebase!!
+Hello class test for merge conflict from remote!!
