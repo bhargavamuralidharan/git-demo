@@ -1,1 +1,1 @@
-read me file for rebase demo with pull -r
+read me file for git pull demo
